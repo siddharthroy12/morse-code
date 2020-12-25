@@ -36,5 +36,5 @@ morse_table = {
     "7": [DASH, DASH, DOT, DOT, DOT],
     "8": [DASH, DASH, DASH, DOT, DOT],
     "9": [DASH , DASH, DASH, DASH, DOT],
-    "10": [DASH, DASH, DASH, DASH, DASH]
+    "0": [DASH, DASH, DASH, DASH, DASH]
 }
